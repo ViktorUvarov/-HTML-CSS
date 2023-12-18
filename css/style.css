@@ -38,7 +38,7 @@ body {
    /* а также высота может быть больше высоты экрана если требуется вместить содержимое страницы */
    height: 100%;
    /* картинка фона */
-   background-image: url(/image/Ursa-\(Dota\)-Dota-фэндомы-Dota-Art-1009120.jpeg);
+   background-image: url(../image/ursa1.jpeg);
    /* настройки отображения картинки */
    background-repeat: no-repeat;
    background-size: cover;
